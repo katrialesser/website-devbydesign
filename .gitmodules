@@ -1,0 +1,3 @@
+[submodule "sites/all/themes/custom/webdev"]
+	path = sites/all/themes/custom/webdev
+	url = https://github.com/katrialesser/webdev.git
